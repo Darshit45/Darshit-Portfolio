@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Darshit-Portfolio/static/css/main.bb289cb2.chunk.css",
-    "main.js": "/Darshit-Portfolio/static/js/main.e4b9d3d1.chunk.js",
-    "main.js.map": "/Darshit-Portfolio/static/js/main.e4b9d3d1.chunk.js.map",
+    "main.js": "/Darshit-Portfolio/static/js/main.4b9f3e14.chunk.js",
+    "main.js.map": "/Darshit-Portfolio/static/js/main.4b9f3e14.chunk.js.map",
     "runtime-main.js": "/Darshit-Portfolio/static/js/runtime-main.15df7a96.js",
     "runtime-main.js.map": "/Darshit-Portfolio/static/js/runtime-main.15df7a96.js.map",
     "static/js/2.ed0b45bc.chunk.js": "/Darshit-Portfolio/static/js/2.ed0b45bc.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.15df7a96.js",
     "static/js/2.ed0b45bc.chunk.js",
     "static/css/main.bb289cb2.chunk.css",
-    "static/js/main.e4b9d3d1.chunk.js"
+    "static/js/main.4b9f3e14.chunk.js"
   ]
 }
