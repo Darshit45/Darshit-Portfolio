@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/Darshit-Portfolio/static/css/main.bb289cb2.chunk.css",
-    "main.js": "/Darshit-Portfolio/static/js/main.91c25591.chunk.js",
-    "main.js.map": "/Darshit-Portfolio/static/js/main.91c25591.chunk.js.map",
-    "runtime-main.js": "/Darshit-Portfolio/static/js/runtime-main.c480f8b9.js",
-    "runtime-main.js.map": "/Darshit-Portfolio/static/js/runtime-main.c480f8b9.js.map",
-    "static/js/2.2ba97306.chunk.js": "/Darshit-Portfolio/static/js/2.2ba97306.chunk.js",
-    "static/js/2.2ba97306.chunk.js.map": "/Darshit-Portfolio/static/js/2.2ba97306.chunk.js.map",
+    "main.js": "/Darshit-Portfolio/static/js/main.e4b9d3d1.chunk.js",
+    "main.js.map": "/Darshit-Portfolio/static/js/main.e4b9d3d1.chunk.js.map",
+    "runtime-main.js": "/Darshit-Portfolio/static/js/runtime-main.15df7a96.js",
+    "runtime-main.js.map": "/Darshit-Portfolio/static/js/runtime-main.15df7a96.js.map",
+    "static/js/2.ed0b45bc.chunk.js": "/Darshit-Portfolio/static/js/2.ed0b45bc.chunk.js",
+    "static/js/2.ed0b45bc.chunk.js.map": "/Darshit-Portfolio/static/js/2.ed0b45bc.chunk.js.map",
     "index.html": "/Darshit-Portfolio/index.html",
     "static/css/main.bb289cb2.chunk.css.map": "/Darshit-Portfolio/static/css/main.bb289cb2.chunk.css.map",
-    "static/js/2.2ba97306.chunk.js.LICENSE.txt": "/Darshit-Portfolio/static/js/2.2ba97306.chunk.js.LICENSE.txt"
+    "static/js/2.ed0b45bc.chunk.js.LICENSE.txt": "/Darshit-Portfolio/static/js/2.ed0b45bc.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.c480f8b9.js",
-    "static/js/2.2ba97306.chunk.js",
+    "static/js/runtime-main.15df7a96.js",
+    "static/js/2.ed0b45bc.chunk.js",
     "static/css/main.bb289cb2.chunk.css",
-    "static/js/main.91c25591.chunk.js"
+    "static/js/main.e4b9d3d1.chunk.js"
   ]
 }
